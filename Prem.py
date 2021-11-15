@@ -199,7 +199,7 @@ def _menu_dev_(_Dapunta_Ganteng_Banget_):
     _dapunta_cici_('%s[%s03%s] %sCrack ID Dari Likers'%(_U_,_P_,_U_,_P_))
     _dapunta_cici_('%s[%s04%s] %sLihat Hasil Crack'%(_U_,_P_,_U_,_P_))
     _dapunta_cici_('%s[%s05%s] %sGanti user Agent'%(_U_,_P_,_U_,_P_))
-    _dapunta_cici_('%s[%s06%s] %sFacebook me Bintang XD'%(_U_,_P_,_U_,_P_))
+    _dapunta_cici_('%s[%sINFO%s] %sFacebook me Bintang XD'%(_U_,_P_,_U_,_P_))
     _dapunta_cici_('%s[%s00%s] %sLog Out'%(_U_,_P_,_U_,_P_))
     _dapunta_menu__cici_dapunta__ = _cici_dapunta_('%s[%s•%s] %sPilih : '%(_U_,_P_,_U_,_P_))
     _dapunta_cici_('')
