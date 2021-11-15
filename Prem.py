@@ -775,9 +775,9 @@ def _var_ugen_(_Dapunta_Cinta_Cici_):
 
 ### Tampilan Metode
 def start_method():
-    _dapunta_cici_('\n%s[%s1%s] %sMetode Api🔥'%(_U_,_P_,_U_,_P_))
-    _dapunta_cici_('%s[%s2%s] %sMetode Mbasic⚡'%(_U_,_P_,_U_,_P_))
-    __dapunta_cici_('%s[%s3%s] %sMetode free🤡'%(_U_,_P_,_U_,_P_))
+    _dapunta_cici_('\n%s[%s01%s] %sMetode Api🔥'%(_U_,_P_,_U_,_P_))
+    _dapunta_cici_('%s[%s02%s] %sMetode Mbasic⚡'%(_U_,_P_,_U_,_P_))
+    _dapunta_cici_('%s[%s03%s] %sMetode free🤡'%(_U_,_P_,_U_,_P_))
 ### Tampilan Mulai Crack
 def started():
     _dapunta_cici_('%s[%s•%s] %sCrack Sedang Berjalan...'%(_U_,_P_,_U_,_P_))
