@@ -1,9 +1,9 @@
 #!/usr/bin/python3
 #-*-coding:utf-8-*-
-# Made With ❤️ By Dapunta And XNSCODE Project
-# Update V0.1
+# Made With ❤️ By Bintang XD And XNSCODE Project
+# Update V0.6
 
-# Copyright© Dapunta ID 2021
+# Copyright© Bintang XD  2021
 # 100% Open Source Code
 
 # Author : Dapunta Adyapaksi R.
@@ -48,17 +48,18 @@ _bulan_ = _list_bulan_[_bulan_sekarang_]
 tanggal = ("%s-%s-%s"%(__hari__,_bulan_,__tahun__))
 
 ### Warna
-_P_ = "\x1b[0;97m" # Putih
 _M_ = "\x1b[0;91m" # Merah
-_H_ = "\x1b[0;92m" # Hijau
+_P_ = "\x1b[0;97m" # Putih
 _U_ = "\x1b[0;95m" # Ungu
+_P_ = "\x1b[0;97m" # Putih
+
 
 ### Logo
 _logo_line_1_ = ('%s ___  __  __ ___ ___ '%(_P_))
 _logo_line_2_ = ('%s|   \|  \/  | _ ) __| %s┌─────────────────────────┐'%(_P_,_U_))
-_logo_line_3_ = ('%s| |) | |\/| | _ \ _|  %s│   %s• Code By Bintang XD •   %s│'%(_P_,_U_,_P_,_U_))
-_logo_line_4_ = ('%s|___/|_|  |_|___/_|   %s│ %sGithub.com/bot-85/dmbf %s│'%(_P_,_U_,_P_,_U_))
-_logo_line_5_ = ('%s XNSCODE Team 2021    └─────────────────────────┘'%(_U_))
+_logo_line_3_ = ('%s| |) | |\/| | _ \ _|  %s│   %s• By Bintang XD  •   Nn%s│'%(_P_,_U_,_P_,_U_))
+_logo_line_4_ = ('%s|___/|_|  |_|___/_|   %s│ %sGithub.com/bot-85/bot-2 %s│'%(_P_,_U_,_P_,_U_))
+_logo_line_5_ = ('%s  Team Prem 2022.    └─────────────────────────┘'%(_U_))
 def _my_logo_():
     _dapunta_cici_(_logo_line_1_)
     _dapunta_cici_(_logo_line_2_)
@@ -198,6 +199,7 @@ def _menu_dev_(_Dapunta_Ganteng_Banget_):
     _dapunta_cici_('%s[%s03%s] %sCrack ID Dari Likers'%(_U_,_P_,_U_,_P_))
     _dapunta_cici_('%s[%s04%s] %sLihat Hasil Crack'%(_U_,_P_,_U_,_P_))
     _dapunta_cici_('%s[%s05%s] %sGanti user Agent'%(_U_,_P_,_U_,_P_))
+    _dapunta_cici_('%s[%s05%s] %sFacebook Bintang XD'%(_U_,_P_,_U_,_P_))
     _dapunta_cici_('%s[%s00%s] %sLog Out'%(_U_,_P_,_U_,_P_))
     _dapunta_menu__cici_dapunta__ = _cici_dapunta_('%s[%s•%s] %sPilih : '%(_U_,_P_,_U_,_P_))
     _dapunta_cici_('')
@@ -781,7 +783,7 @@ def started():
     _dapunta_cici_('%s[%s•%s] %sCrack Sedang Berjalan...'%(_U_,_P_,_U_,_P_))
     _dapunta_cici_('%s[%s•%s] %sAkun [OK] Disimpan Ke OK/%s.txt'%(_U_,_P_,_U_,_P_,tanggal))
     _dapunta_cici_('%s[%s•%s] %sAkun [CP] Disimpan Ke CP/%s.txt'%(_U_,_P_,_U_,_P_,tanggal))
-    _dapunta_cici_('%s[%s•%s] %sAktifkan Mode Pesawat [5 Detik Saja] Setiap 5 Menit\n'%(_U_,_P_,_U_,_P_))
+    _dapunta_cici_('%s[%s•%s] %sAktifkan Mode Pesawat [5 Detik Saja] Ketika angka crack sudah menyentuh angka 1k\n'%(_U_,_P_,_U_,_P_))
 
 ### Start
 if __name__=='__main__':
