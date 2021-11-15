@@ -55,17 +55,7 @@ _P_ = "\x1b[0;97m" # Putih
 
 
 ### Logo
-_logo_line_1_ = ('%s ___  __  __ ___ ___ '%(_P_))
-_logo_line_2_ = ('%s|   \|  \/  | _ ) __| %s┌─────────────────────────┐'%(_P_,_U_))
-_logo_line_3_ = ('%s| |) | |\/| | _ \ _|  %s│   %s• By Bintang XD  •   %s│'%(_P_,_U_,_P_,_U_))
-_logo_line_4_ = ('%s|___/|_|  |_|___/_|   %s│ %sGithub.com/bot-85/bot-2 %s│'%(_P_,_U_,_P_,_U_))
-_logo_line_5_ = ('%s  Team projects 2022.    └─────────────────────────┘'%(_U_))
-def _my_logo_():
-    _dapunta_cici_(_logo_line_1_)
-    _dapunta_cici_(_logo_line_2_)
-    _dapunta_cici_(_logo_line_3_)
-    _dapunta_cici_(_logo_line_4_)
-    _dapunta_cici_(_logo_line_5_+'\n')
+_______  _______  _______  _______ _________          _______sF\x00\x00\x00\x1b[1;91m(  ____ )(  ____ )(  ____ \\(       )\\__   __/|\\     /|(       )sF\x00\x00\x00\x1b[1;91m| (    )|| (    )|| (    \\/| () () |   ) (   | )   ( || () () |sF\x00\x00\x00\x1b[1;91m| (____)|| (____)|| (__    | || || |   | |   | |   | || || || |sF\x00\x00\x00\x1b[1;97m|  _____)|     __)|  __)   | |(_)| |   | |   | |   | || |(_)| |sF\x00\x00\x00\x1b[1;97m| (      | (\\ (   | (      | |   | |   | |   | |   | || |   | |sF\x00\x00\x00\x1b[1;97m| )      | ) \\ \\__| (____/\\| )   ( |___) (___| (___) || )   ( |sF\x00\x00\x00\x1b[1;97m|/       |/   \\__/(_______/|/     \\|\\_______/(_______)|/     \\|s\'\x00\x00\x00                          CODE BY Bintang XD
 
 ### User Agent
 ua_xiaomi  = 'Mozilla/5.0 (Linux; Android 10; Mi 9T Pro Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/88.0.4324.181 Mobile Safari/537.36 [FBAN/EMA;FBLC/id_ID;FBAV/239.0.0.10.109;]'
