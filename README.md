@@ -1,4 +1,4 @@
-# ⭐ PREM CRACK 🔥
+# ⭐ PREM CRACK 
 ## AUTHOR By BINTANG XD
 $ termux-setup-storage  
    • Enter  
