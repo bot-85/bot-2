@@ -59,7 +59,7 @@ _logo_line_1_ = ('%s ___  __  __ ___ ___ '%(_P_))
 _logo_line_2_ = ('%s|   \|  \/  | _ ) __| %s┌─────────────────────────┐'%(_P_,_U_))
 _logo_line_3_ = ('%s| |) | |\/| | _ \ _|  %s│   %s• By Bintang XD  •   %s│'%(_P_,_U_,_P_,_U_))
 _logo_line_4_ = ('%s|___/|_|  |_|___/_|   %s│ %sGithub.com/bot-85/bot-2 %s│'%(_P_,_U_,_P_,_U_))
-_logo_line_5_ = ('%s  Team Prem 2022.    └─────────────────────────┘'%(_U_))
+_logo_line_5_ = ('%s  Team projects 2022.    └─────────────────────────┘'%(_U_))
 def _my_logo_():
     _dapunta_cici_(_logo_line_1_)
     _dapunta_cici_(_logo_line_2_)
@@ -726,14 +726,14 @@ def _ugen_dev_(_Dapunta_Sayang_Cici_):
         _menu_dev_(_Dapunta_Sayang_Cici_)
 def _ugen_hp_(_Dapunta_Sayang_Cici_):
     _del_()
-    _dapunta_cici_('%s[%s1%s] %sXiaomi'%(_U_,_P_,_U_,_P_))
-    _dapunta_cici_('%s[%s2%s] %sNokia'%(_U_,_P_,_U_,_P_))
-    _dapunta_cici_('%s[%s3%s] %sAsus'%(_U_,_P_,_U_,_P_))
-    _dapunta_cici_('%s[%s4%s] %sHuawei'%(_U_,_P_,_U_,_P_))
-    _dapunta_cici_('%s[%s5%s] %sVivo'%(_U_,_P_,_U_,_P_))
-    _dapunta_cici_('%s[%s6%s] %sOppo'%(_U_,_P_,_U_,_P_))
-    _dapunta_cici_('%s[%s7%s] %sSamsung'%(_U_,_P_,_U_,_P_))
-    _dapunta_cici_('%s[%s8%s] %sWindows'%(_U_,_P_,_U_,_P_))
+    _dapunta_cici_('%s[%s01%s] %sXiaomi'%(_U_,_P_,_U_,_P_))
+    _dapunta_cici_('%s[%s02%s] %sNokia'%(_U_,_P_,_U_,_P_))
+    _dapunta_cici_('%s[%s03%s] %sAsus'%(_U_,_P_,_U_,_P_))
+    _dapunta_cici_('%s[%s04%s] %sHuawei'%(_U_,_P_,_U_,_P_))
+    _dapunta_cici_('%s[%s05%s] %sVivo'%(_U_,_P_,_U_,_P_))
+    _dapunta_cici_('%s[%s06%s] %sOppo'%(_U_,_P_,_U_,_P_))
+    _dapunta_cici_('%s[%s07%s] %sSamsung'%(_U_,_P_,_U_,_P_))
+    _dapunta_cici_('%s[%s08%s] %sWindows'%(_U_,_P_,_U_,_P_))
     pc = _cici_dapunta_('%s[%s•%s] %sPilih : '%(_U_,_P_,_U_,_P_))
     _dapunta_cici_('')
     if pc in['']:
@@ -766,18 +766,18 @@ def _ugen_hp_(_Dapunta_Sayang_Cici_):
 
 ### Tampilan User Agent
 def _var_ugen_(_Dapunta_Cinta_Cici_):
-    _dapunta_cici_("%s[%s1%s] %sDapatkan User Agent"%(_U_,_P_,_U_,_P_))
-    _dapunta_cici_("%s[%s2%s] %sGanti User Agent %s[%sManual%s]"%(_U_,_P_,_U_,_P_,_U_,_P_,_U_))
-    _dapunta_cici_("%s[%s3%s] %sGanti User Agent %s[%sSesuaikan HP%s]"%(_U_,_P_,_U_,_P_,_U_,_P_,_U_))
-    _dapunta_cici_("%s[%s4%s] %sHapus User Agent"%(_U_,_P_,_U_,_P_))
-    _dapunta_cici_("%s[%s5%s] %sCek User Agent"%(_U_,_P_,_U_,_P_))
-    _dapunta_cici_("%s[%s0%s] %sKembali"%(_U_,_P_,_U_,_P_))
+    _dapunta_cici_("%s[%s01%s] %sDapatkan User Agent anda"%(_U_,_P_,_U_,_P_))
+    _dapunta_cici_("%s[%s02%s] %sGanti User Agent %s[%sManual%s]"%(_U_,_P_,_U_,_P_,_U_,_P_,_U_))
+    _dapunta_cici_("%s[%s03%s] %sGanti User Agent %s[%sSesuaikan HP%s]"%(_U_,_P_,_U_,_P_,_U_,_P_,_U_))
+    _dapunta_cici_("%s[%s04%s] %sHapus User Agent"%(_U_,_P_,_U_,_P_))
+    _dapunta_cici_("%s[%s05%s] %sCek User Agent"%(_U_,_P_,_U_,_P_))
+    _dapunta_cici_("%s[%s00%s] %sKembali"%(_U_,_P_,_U_,_P_))
 
 ### Tampilan Metode
 def start_method():
     _dapunta_cici_('\n%s[%s1%s] %sMetode Api'%(_U_,_P_,_U_,_P_))
     _dapunta_cici_('%s[%s2%s] %sMetode Mbasic'%(_U_,_P_,_U_,_P_))
-
+    __dapunta_cici_('%s[%s3%s] %sfree'%(_U_,_P_,_U_,_P_))
 ### Tampilan Mulai Crack
 def started():
     _dapunta_cici_('%s[%s•%s] %sCrack Sedang Berjalan...'%(_U_,_P_,_U_,_P_))
