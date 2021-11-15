@@ -54,13 +54,18 @@ _U_ = "\x1b[0;95m" # Ungu
 _P_ = "\x1b[0;97m" # Putih
 
 
-### Logo """\033[1;37m
- 
-   ______\033[1;91m   __ __ \033[1;37m            __  
-  / ____/ \033[1;91m / // /  \033[1;37m  _____   / /__
- / /      \033[1;91m/ // /_ \033[1;37m  / ___/  / //_/
-/ /___   \033[1;91m/__  __/\033[1;37m  / /__   / ,< Au \033[1;36m• by\033[1;32mBintang XD.\033[1;37m
-\____/   \033[1;91m  /_/   \033[1;37m  \___/  /_/|_|\n"""
+### Logo
+_logo_line_1_ = ('%s ___  __  __ ___ ___ '%(_P_))
+_logo_line_2_ = ('%s|   \|  \/  | _ ) __| %s┌─────────────────────────┐'%(_P_,_U_))
+_logo_line_3_ = ('%s| |) | |\/| | _ \ _|  %s│   %s• Code By Bintang XD •   %s│'%(_P_,_U_,_P_,_U_))
+_logo_line_4_ = ('%s|___/|_|  |_|___/_|   %s│ %sGithub.com/bot-85/dmbf %s│'%(_P_,_U_,_P_,_U_))
+_logo_line_5_ = ('%s XNSCODE Team 2021    └─────────────────────────┘'%(_U_))
+def _my_logo_():
+    _dapunta_cici_(_logo_line_1_)
+    _dapunta_cici_(_logo_line_2_)
+    _dapunta_cici_(_logo_line_3_)
+    _dapunta_cici_(_logo_line_4_)
+    _dapunta_cici_(_logo_line_5_+'\n')
 
 
 ### User Agent
