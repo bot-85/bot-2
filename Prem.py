@@ -194,13 +194,13 @@ def _menu_dev_(_Dapunta_Ganteng_Banget_):
     _dapunta_cici_('%s[%s•%s] %sID : %s'%(_U_,_P_,_U_,_P_,_id_dev_))
     _dapunta_cici_('%s[%s•%s] %sIP : %s'%(_U_,_P_,_U_,_P_,_ip_dev_))
     _dapunta_cici_('%s[%s•%s] %sTgl : %s\n'%(_U_,_P_,_U_,_P_,_tanggal_))
-    _dapunta_cici_('%s[%sNO.01%s] %sCrack ID Dari Teman/Publik'%(_U_,_P_,_U_,_P_))
-    _dapunta_cici_('%s[%sNO.02%s] %sCrack ID Dari Pengikut'%(_U_,_P_,_U_,_P_))
-    _dapunta_cici_('%s[%sNO.03%s] %sCrack ID Dari Likers'%(_U_,_P_,_U_,_P_))
-    _dapunta_cici_('%s[%sNO.04%s] %sLihat Hasil Crack'%(_U_,_P_,_U_,_P_))
-    _dapunta_cici_('%s[%sNO.05%s] %sGanti user Agent'%(_U_,_P_,_U_,_P_))
-    _dapunta_cici_('%s[%sINFO%s] %sFacebook me Bintang XD'%(_U_,_P_,_U_,_P_))
-    _dapunta_cici_('%s[%sNO.00%s] %sLog Out'%(_U_,_P_,_U_,_P_))
+    _dapunta_cici_('%s[%s01%s] %sCrack ID Dari Teman/Publik'%(_U_,_P_,_U_,_P_))
+    _dapunta_cici_('%s[%s02%s] %sCrack ID Dari Pengikut'%(_U_,_P_,_U_,_P_))
+    _dapunta_cici_('%s[%s03%s] %sCrack ID Dari Likers'%(_U_,_P_,_U_,_P_))
+    _dapunta_cici_('%s[%s04%s] %sCek Hasil Crack'%(_U_,_P_,_U_,_P_))
+    _dapunta_cici_('%s[%s05%s] %sGanti user Agent'%(_U_,_P_,_U_,_P_))
+    _dapunta_cici_('%s[%sInfo%s] %sFacebook Me Bintang XD'%(_U_,_P_,_U_,_P_))
+    _dapunta_cici_('%s[%s00%s] %sLog Out'%(_U_,_P_,_U_,_P_))
     _dapunta_menu__cici_dapunta__ = _cici_dapunta_('%s[%s•%s] %sPilih : '%(_U_,_P_,_U_,_P_))
     _dapunta_cici_('')
     if _dapunta_menu__cici_dapunta__ in ['',' ']:
@@ -775,15 +775,15 @@ def _var_ugen_(_Dapunta_Cinta_Cici_):
 
 ### Tampilan Metode
 def start_method():
-    _dapunta_cici_('\n%s[%s01%s] %sMetode Api🔥'%(_U_,_P_,_U_,_P_))
-    _dapunta_cici_('%s[%s02%s] %sMetode Mbasic⚡'%(_U_,_P_,_U_,_P_))
-    _dapunta_cici_('%s[%s03%s] %sMetode free🤡'%(_U_,_P_,_U_,_P_))
+    _dapunta_cici_('%s[%s01%s] %sMetode Api'%(_U_,_P_,_U_,_P_))
+    _dapunta_cici_('%s[%s02%s] %sMetode Mbasic'%(_U_,_P_,_U_,_P_))
+    _dapunta_cici_('%s[%s03%s] %sMetode free fb'%(_U_,_P_,_U_,_P_))
 ### Tampilan Mulai Crack
 def started():
     _dapunta_cici_('%s[%s•%s] %sCrack Sedang Berjalan...'%(_U_,_P_,_U_,_P_))
     _dapunta_cici_('%s[%s•%s] %sAkun [OK] Disimpan Ke OK/%s.txt'%(_U_,_P_,_U_,_P_,tanggal))
     _dapunta_cici_('%s[%s•%s] %sAkun [CP] Disimpan Ke CP/%s.txt'%(_U_,_P_,_U_,_P_,tanggal))
-    _dapunta_cici_('%s[%s•%s] %sAktifkan Mode Pesawat [5 Detik Saja] Ketika angka crack sudah menyentuh angka 1k\n'%(_U_,_P_,_U_,_P_))
+    _dapunta_cici_('%s[%s•%s] %sAktifkan Mode Pesawat [5 Detik Saja] Setiap 5Menit\n'%(_U_,_P_,_U_,_P_))
 
 ### Start
 if __name__=='__main__':
