@@ -25,3 +25,5 @@ $ git clone https://github.com/bot-85/bot-2
 cd bot-2
 
 python Prem.py
+
+## di pakai 2022
