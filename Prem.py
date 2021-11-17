@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 #-*-coding:utf-8-*-
 # Made With ❤️ By Bintang XD And XNSCODE Project
-# Update V0.9
+# Update V1.0
 
 # Copyright© Bintang XD  2021
 # 100% Open Source Code
